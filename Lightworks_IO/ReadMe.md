@@ -9,6 +9,7 @@ The Lightworks IO library, is designed for developers who need to make a mixed a
   Support of C#, C++(Objective) and Objective pascal
   
 ## Code sample
+Please load the dll file to make sure you can access the code library in your project.
 ### Making a TFile
 ```
   private void button_saveAs_Click(object sender, EventArgs e)
@@ -51,7 +52,7 @@ The Lightworks IO library, is designed for developers who need to make a mixed a
         }
 ```
         
-  ## Load and extracting TFile
+ ### Load and extracting TFile
 ```
    private void button_openEx_Click(object sender, EventArgs e)
         {
