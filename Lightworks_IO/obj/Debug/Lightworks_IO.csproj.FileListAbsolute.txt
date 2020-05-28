@@ -1,6 +1,0 @@
-C:\Users\admin\Documents\Visual Studio 2013\Projects\Lightworks sketchpro\Lightworks_IO\bin\Debug\Lightworks_IO.dll
-C:\Users\admin\Documents\Visual Studio 2013\Projects\Lightworks sketchpro\Lightworks_IO\bin\Debug\Lightworks_IO.pdb
-C:\Users\admin\Documents\Visual Studio 2013\Projects\Lightworks sketchpro\Lightworks_IO\bin\Debug\ICSharpCode.SharpZipLib.dll
-C:\Users\admin\Documents\Visual Studio 2013\Projects\Lightworks sketchpro\Lightworks_IO\obj\Debug\Lightworks_IO.csprojResolveAssemblyReference.cache
-C:\Users\admin\Documents\Visual Studio 2013\Projects\Lightworks sketchpro\Lightworks_IO\obj\Debug\Lightworks_IO.dll
-C:\Users\admin\Documents\Visual Studio 2013\Projects\Lightworks sketchpro\Lightworks_IO\obj\Debug\Lightworks_IO.pdb
