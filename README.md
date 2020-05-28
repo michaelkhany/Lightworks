@@ -9,6 +9,7 @@ The Lightworks IO library, is designed for developers who need to make a mixed a
   
 ## Code sample
 ### Making a TFile
+```
   private void button_saveAs_Click(object sender, EventArgs e)
         {
             Lightworks_IOFile lwioFile = new Lightworks_IOFile(".testFile");
@@ -47,9 +48,10 @@ The Lightworks IO library, is designed for developers who need to make a mixed a
                 }
             }
         }
-        
+        ```
         
   ## Load and extracting TFile
+  ```
    private void button_openEx_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog2 = new OpenFileDialog
@@ -92,3 +94,4 @@ The Lightworks IO library, is designed for developers who need to make a mixed a
             }
         }
     }
+    ```
