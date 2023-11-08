@@ -38,3 +38,21 @@ List<Command> commands = bridge.Translate("C# source code here...");
 ```
 
 Process the commands list as needed for your application.
+
+## Versions
+
+### lw_bridge_02310
+
+In this release, we're introducing a host of robust features designed to improve the translation of C# code:
+
+- Simplified JSON mapping structure for ease of command definitions.
+- Enhanced parsing capabilities to accurately interpret C# constructs and convert them into discrete commands.
+- Improved error handling and messaging to provide clear feedback on translation mismatches and unsupported syntax.
+- Extended command set support allowing for more complex C# statements to be broken down into executable commands.
+- New tokenization process to better handle a variety of C# expressions and control structures.
+- Optimizations for faster translation times and reduced memory footprint.
+- Initial support for method calls and arithmetic operations within the source code translation process.
+- Streamlined initialization of the translation engine to facilitate integration into existing projects.
+
+Remember to update your JSON mappings to leverage these new features and enjoy an even more powerful and flexible translation experience.
+
