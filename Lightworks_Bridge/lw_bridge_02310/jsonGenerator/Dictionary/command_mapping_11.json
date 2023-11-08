@@ -1,0 +1,8 @@
+{
+    "CSharpCommand": "i = 0",
+    "SimpleCommand": "InitVariable",
+    "Parameters": [
+        "i",
+        "0"
+    ]
+}

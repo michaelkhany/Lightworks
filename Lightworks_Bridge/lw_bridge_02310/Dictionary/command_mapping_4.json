@@ -1,0 +1,8 @@
+{
+    "CSharpCommand": "Result Command 2 * Result Command 3",
+    "SimpleCommand": "Multiply",
+    "Parameters": [
+        "Result Command 2",
+        "Result Command 3"
+    ]
+}

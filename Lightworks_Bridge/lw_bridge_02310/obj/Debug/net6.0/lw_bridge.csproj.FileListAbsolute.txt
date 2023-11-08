@@ -1,0 +1,17 @@
+D:\Codes\CSharp\lw_bridge\bin\Debug\net6.0\lw_bridge.exe
+D:\Codes\CSharp\lw_bridge\bin\Debug\net6.0\lw_bridge.deps.json
+D:\Codes\CSharp\lw_bridge\bin\Debug\net6.0\lw_bridge.runtimeconfig.json
+D:\Codes\CSharp\lw_bridge\bin\Debug\net6.0\lw_bridge.dll
+D:\Codes\CSharp\lw_bridge\bin\Debug\net6.0\lw_bridge.pdb
+D:\Codes\CSharp\lw_bridge\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.csproj.AssemblyReference.cache
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.AssemblyInfoInputs.cache
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.AssemblyInfo.cs
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.csproj.CoreCompileInputs.cache
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.csproj.CopyComplete
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.dll
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\refint\lw_bridge.dll
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.pdb
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\lw_bridge.genruntimeconfig.cache
+D:\Codes\CSharp\lw_bridge\obj\Debug\net6.0\ref\lw_bridge.dll

@@ -1,0 +1,8 @@
+{
+    "CSharpCommand": "var i = Result Command 5",
+    "SimpleCommand": "DefineVariable",
+    "Parameters": [
+        "i",
+        "Result Command 5"
+    ]
+}

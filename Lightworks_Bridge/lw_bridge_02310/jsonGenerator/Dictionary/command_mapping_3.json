@@ -1,0 +1,9 @@
+{
+    "CSharpCommand": "box.GetX(Origin.Center)",
+    "SimpleCommand": "CallFunction",
+    "Parameters": [
+        "GetX",
+        "Origin.Center",
+        "Box"
+    ]
+}

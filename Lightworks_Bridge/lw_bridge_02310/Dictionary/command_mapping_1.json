@@ -1,0 +1,7 @@
+{
+    "CSharpCommand": "new Box()",
+    "SimpleCommand": "CreateInstance",
+    "Parameters": [
+        "Box"
+    ]
+}

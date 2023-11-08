@@ -1,0 +1,8 @@
+{
+    "CSharpCommand": "Result Command 4 + x",
+    "SimpleCommand": "Sum",
+    "Parameters": [
+        "Result Command 4",
+        "x"
+    ]
+}
